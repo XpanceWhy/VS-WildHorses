@@ -7,7 +7,7 @@ Spawning wild horses
 
 
 ## Installation
-- `ensure vestige_wild` in your resources.cfg
+- `ensure VS-WildHorses` in your resources.cfg
 - edit the config file
 - start your server 
 
